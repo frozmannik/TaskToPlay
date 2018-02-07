@@ -1,0 +1,53 @@
+"id": 576,
+    "idNumber": "2012/57",
+    "refNumber": "P1712",
+    "name": "Project name1",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": [],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Vladimir Putin",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false

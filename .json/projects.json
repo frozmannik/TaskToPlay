@@ -1,0 +1,827 @@
+[
+  {
+    "id": 576,
+    "idNumber": "2012/57",
+    "refNumber": "P1712",
+    "name": "Project name1",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["russian","english"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Vladimir Putin",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 586,
+    "idNumber": "2012/56",
+    "refNumber": "P1711",
+    "name": "Project name2",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["bulgarian", "english"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Arsen georg",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 597,
+    "idNumber": "2012/55",
+    "refNumber": "P1710",
+    "name": "Project name3",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["greek","french"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "George fr",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 577,
+    "idNumber": "2012/57",
+    "refNumber": "P1712",
+    "name": "Project name4",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["japanese", "russian"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Vladimir Putin",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 586,
+    "idNumber": "2012/56",
+    "refNumber": "P1711",
+    "name": "Project name5",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["ukranian", "russian"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Dmtriy Medvedev",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 597,
+    "idNumber": "2012/55",
+    "refNumber": "P1710",
+    "name": "Project name6",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["greek","english"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Maria Argoy",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 578,
+    "idNumber": "2012/57",
+    "refNumber": "P1712",
+    "name": "Project name7",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["russian", "greek"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Vladimir Putin",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 586,
+    "idNumber": "2012/56",
+    "refNumber": "P1711",
+    "name": "Project name8",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["janapese","greek"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Donald Trump",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 597,
+    "idNumber": "2012/55",
+    "refNumber": "P1710",
+    "name": "Project name9",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["chinese","greek"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Ivan",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 579,
+    "idNumber": "2012/57",
+    "refNumber": "P1712",
+    "name": "Project name10",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["chinese","greek"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Vladimir Putin",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 586,
+    "idNumber": "2012/56",
+    "refNumber": "P1711",
+    "name": "Project name11",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["chinese","greek"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Tomasz Mróz",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 597,
+    "idNumber": "2012/55",
+    "refNumber": "P1710",
+    "name": "Project name13",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["chinese","greek"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Tomasz Mróz",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 580,
+    "idNumber": "2012/57",
+    "refNumber": "P1712",
+    "name": "Project name14",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["chinese", "russian"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Vladimir Putin",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 586,
+    "idNumber": "2012/56",
+    "refNumber": "P1711",
+    "name": "Project name16",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["chinese", "russian"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Tomasz Mróz",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  },
+  {
+    "id": 597,
+    "idNumber": "2012/55",
+    "refNumber": "P1710",
+    "name": "Project name17",
+    "isProject": true,
+    "totalAgreed": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "tmSavings": {
+      "amount": 0,
+      "currency": "€",
+      "formattedAmount": "0.00 €"
+    },
+    "languageCombinations": ["chinese", "russian"],
+    "startDate": {
+      "formatted": "2012-08-07 09:00 CEST",
+      "millisGMT": 1344322800000
+    },
+    "deadline": {
+      "formatted": "2012-08-28 17:00 CEST",
+      "millisGMT": 1346166000000
+    },
+    "actualDeliveryDate": {
+      "formatted": "2012-08-30 13:00 CEST",
+      "millisGMT": 1346324400000
+    },
+    "hasInputWorkfiles": false,
+    "hasInputResources": false,
+    "office": {
+      "name": "customer name"
+    },
+    "status": "OPENED",
+    "projectManager": {
+      "id": 1,
+      "type": "User",
+      "name": "Tomasz Mróz",
+      "position": "Project Manager",
+      "firstName": "Tomasz",
+      "lastName": "Mróz",
+      "contact": {
+        "phones": [],
+        "smsEnabled": false,
+        "email": "user_email@somewhere",
+        "socialMediaContacts": []
+      }
+    },
+    "hasOutputFiles": false,
+    "awaitingCustomerReview": false,
+    "budgetCode": "Budget2016",
+    "customerNotes": "special instructions from client",
+    "projectConfirmationAvailable": false
+  }
+]
